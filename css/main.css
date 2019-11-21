@@ -1,0 +1,47 @@
+body{
+    background: #fff;
+}
+#toppage{
+    background:#13aa52;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#logos{
+    width: auto;
+    float: left;
+}
+#logo{
+color: #fff;
+font-size: 25px;
+font-weight: 900;
+margin-top: 20px;
+}
+#logo:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.form-control{
+    height: 30px;
+    border-radius: 0px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+select{
+    width: 20%;
+    float: left;
+}
+.fa-shopping-cart{
+    color: #fff;
+    font-size: 20px;
+    padding-top: 10px;
+    float: right;
+}
+#register{
+    margin-top: 7px;
+    float: right;
+}
+.login{
+    color: #fff;
+   margin-top: 120px;
+}
